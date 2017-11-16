@@ -35,6 +35,14 @@ https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboa
 
 ## Special thanks to the following podcasts:
 
-http://fragmentedpodcast.com/ http://androidbackstage.blogspot.ca/ https://github.com/artem-zinnatullin/TheContext-Podcast
+Fragmented http://fragmentedpodcast.com/ ( Yes my title and podcast opening form is a nod to my favourite podcast )
+
+Android Developers Backstage http://androidbackstage.blogspot.ca/ 
+
+The Context https://github.com/artem-zinnatullin/TheContext-Podcast
+
+Neapolitan https://player.fm/series/neapolitan-1668190
+
+Programming Throwdown http://www.programmingthrowdown.com/
 
 For inspiration and everything I learned by listening.
