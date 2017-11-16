@@ -7,7 +7,7 @@ In episode 1, I talk about the Android software keyboard and how to know when it
 # Show notes
 From my intro:
 
-Android projects I have been involved in; https://www.chownow.com/, http://www.autotrader.ca/mobile/, https://www.mdcalc.com/
+Android projects I have been involved in; (ChowNow)[https://www.chownow.com/], http://www.autotrader.ca/mobile/, https://www.mdcalc.com/
 
 https://twitter.com/dave_a_thomas
 
