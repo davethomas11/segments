@@ -4,7 +4,7 @@ _November 16, 2017_
 
 In episode 1, I talk about the Android software keyboard and how to know when it has been shown.
 
-Show notes
+# Show notes
 From my intro:
 
 Android projects I have been involved in; https://www.chownow.com/, http://www.autotrader.ca/mobile/, https://www.mdcalc.com/
@@ -15,7 +15,7 @@ Comments for show go here -> https://github.com/davethomas11/segments
 
  
 
-The great keyboard hack:
+## The great keyboard hack:
 
 https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device
 
@@ -33,7 +33,7 @@ https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboa
 
  
 
-Special thanks to the following podcasts:
+# Special thanks to the following podcasts:
 
 http://fragmentedpodcast.com/ http://androidbackstage.blogspot.ca/ https://github.com/artem-zinnatullin/TheContext-Podcast
 
