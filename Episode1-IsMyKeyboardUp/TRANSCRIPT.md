@@ -314,10 +314,10 @@ I imagine it being something like this;
 
 Acquire an input method service reference. Do a conditional check on that reference with the newly added api method I am suggesting. Lets call softwareKeyboardIsAvailable. If this conditionaly is true, then we use another new api method I am suggesting. The input service could have a method called attachSoftwareKeyboardListener. 
 
-`
-InputMethodManager input = context.getSystemService Context.INPUT_METHOD_SERVICE
+```InputMethodManager input = context.getSystemService Context.INPUT_METHOD_SERVICE
 
-If (input.isSoftwareKeyboard) input.addSoftwareKeyboardStateListener()`
+If (input.isSoftwareKeyboard) input.addSoftwareKeyboardStateListener()
+```
 
 Though that probably is not as safe as perhaps this third idea. Instead the keyboard listener could be attached regardless of having a software keyboard or not. And it will always be called even in the case when the software keyboard would be shown but wasn’t. It could pass a boolean value indicating when the keyboardShow listener method is called whether the software was actually shown, or would’ve been shown.
 
