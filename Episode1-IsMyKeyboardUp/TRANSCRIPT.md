@@ -354,7 +354,8 @@ I threw together a quick test project to see if this would work. Low and behold 
            AlertDialog.Builder(this).setMessage("Keyboard down").show()
        }
    }
-}```
+}
+```
 
 
 
