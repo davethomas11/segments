@@ -7,11 +7,12 @@ In episode 1, I talk about the Android software keyboard and how to know when it
 # Show notes
 From my intro:
 
-Android projects I have been involved in; [ChowNow](https://www.chownow.com/), http://www.autotrader.ca/mobile/, https://www.mdcalc.com/
+Android projects I have been involved in; [ChowNow](https://www.chownow.com/), [autoTrader.ca](http://www.autotrader.ca/mobile/), [MDCalc](https://www.mdcalc.com/)
 
+My twitter:
 https://twitter.com/dave_a_thomas
 
-Comments for show go here -> https://github.com/davethomas11/segments
+Comments for show go here -> https://github.com/davethomas11/segments/issues
 
  
 
@@ -35,14 +36,14 @@ https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboa
 
 ## Special thanks to the following podcasts:
 
-Fragmented http://fragmentedpodcast.com/ ( Yes my title and podcast opening form is a nod to my favourite podcast )
+[Fragmented](http://fragmentedpodcast.com/) ( Yes my title and podcast opening form is a nod to my favourite podcast )
 
-Android Developers Backstage http://androidbackstage.blogspot.ca/ 
+[Android Developers Backstage](http://androidbackstage.blogspot.ca/)
 
-The Context https://github.com/artem-zinnatullin/TheContext-Podcast
+[The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
-Neapolitan https://player.fm/series/neapolitan-1668190
+[Neapolitan](https://player.fm/series/neapolitan-1668190)
 
-Programming Throwdown http://www.programmingthrowdown.com/
+[Programming Throwdown](http://www.programmingthrowdown.com/)
 
 For inspiration and everything I learned by listening.
