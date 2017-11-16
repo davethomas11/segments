@@ -1,6 +1,6 @@
 # Is my keyboard up?
 
-_November 16, 2017
+_November 16, 2017_
 
 In episode 1, I talk about the Android software keyboard and how to know when it has been shown.
 
