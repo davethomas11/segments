@@ -33,7 +33,7 @@ https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboa
 
  
 
-# Special thanks to the following podcasts:
+## Special thanks to the following podcasts:
 
 http://fragmentedpodcast.com/ http://androidbackstage.blogspot.ca/ https://github.com/artem-zinnatullin/TheContext-Podcast
 
