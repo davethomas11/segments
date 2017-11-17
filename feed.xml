@@ -1,0 +1,86 @@
+<!--  generator="podbean/3.2"  -->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Segments - Android Developer Podcast</title>
+<atom:link href="https://segments.podbean.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://segments.podbean.com</link>
+<description>
+An Android Developer Podcast, where we talk about real world Developer experiences.
+</description>
+<pubDate>Fri, 17 Nov 2017 01:59:36 -0400</pubDate>
+<generator>https://podbean.com/?v=3.2</generator>
+<language>en</language>
+<!--  podcast_generator="Podbean Engine/5.0"  -->
+<copyright>
+Copyright 2017 Dave Anthony Thomas. All rights reserved.
+</copyright>
+<category>Technology:Podcasting</category>
+<ttl>1440</ttl>
+<itunes:type>episodic</itunes:type>
+<itunes:subtitle>An Android Developer Podcast</itunes:subtitle>
+<itunes:summary>
+An Android Developer Podcast, where we talk about real-world developer experiences.
+</itunes:summary>
+<itunes:author>Dave Thomas</itunes:author>
+<itunes:category text="Technology">
+<itunes:category text="Podcasting"/>
+</itunes:category>
+<itunes:owner>
+<itunes:name>Dave Thomas</itunes:name>
+<itunes:email>dave@northernbuilding.com</itunes:email>
+</itunes:owner>
+<itunes:block>No</itunes:block>
+<itunes:explicit>No</itunes:explicit>
+<itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/2228338/untitled.jpg"/>
+<image>
+<url>
+https://deow9bq0xqvbj.cloudfront.net/image-logo/2228338/untitled.jpg
+</url>
+<title>Segments - Android Developer Podcast</title>
+<link>https://segments.podbean.com</link>
+<width>144</width>
+<height>144</height>
+</image>
+<item>
+<title>Is my keyboard up?</title>
+<link>http://segments.podbean.com/e/is-my-keyboard-up/</link>
+<comments>
+http://segments.podbean.com/e/is-my-keyboard-up/#comments
+</comments>
+<pubDate>Thu, 16 Nov 2017 03:44:32 -0400</pubDate>
+<dc:creator>segments</dc:creator>
+<category>Uncategorized</category>
+<guid isPermaLink="false">
+segments.podbean.com/is-my-keyboard-up-24b00f90dd1700f333f1ee8f1a4eedd1
+</guid>
+<description>
+<![CDATA[
+<p>In episode 1, I talk about the Android software keyboard and how to know when it has been shown.</p> <h3>Show notes</h3> <p>From my intro, Android projects I have been involved in:</p> <p><a href="https://www.chownow.com/">ChowNow</a> </p> <p><a href="http://www.autotrader.ca/mobile/">autoTrader.ca</a></p> <p><a href="https://www.mdcalc.com/">MDCalc</a></p> <p> </p> <p>Me:</p> <p><a href="https://twitter.com/dave_a_thomas">https://twitter.com/dave_a_thomas</a></p> <p>Comments for show go here -&#62; <a href="https://github.com/davethomas11/segments">https://github.com/davethomas11/segments</a></p> <p> </p> <p>The great keyboard hack:</p> <p><a href="https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device">https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device</a></p> <p>Dianne Hackbornn quote from:</p> <p><a href="https://groups.google.com/forum/#!topic/android-platform/F%20%5B...%5D"></a></p>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>In episode 1, I talk about the Android software keyboard and how to know when it has been shown.</p> Show notes <p>From my intro, Android projects I have been involved in:</p> <p><a href="https://www.chownow.com/">ChowNow</a> </p> <p><a href="http://www.autotrader.ca/mobile/">autoTrader.ca</a></p> <p><a href="https://www.mdcalc.com/">MDCalc</a></p> <p> </p> <p>Me:</p> <p><a href="https://twitter.com/dave_a_thomas">https://twitter.com/dave_a_thomas</a></p> <p>Comments for show go here -&gt; <a href="https://github.com/davethomas11/segments">https://github.com/davethomas11/segments</a></p> <p> </p> <p>The great keyboard hack:</p> <p><a href="https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device">https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device</a></p> <p>Dianne Hackbornn quote from:</p> <p><a href="https://groups.google.com/forum/#!topic/android-platform/FyjybyM0wGA">https://groups.google.com/forum/#!topic/android-platform/FyjybyM0wGA</a></p> <p><a href="https://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android">https://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android</a></p> <p>Commonsware quote from:</p> <p><a href="https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboard-shown-dismissed-for-an-edittext">https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboard-shown-dismissed-for-an-edittext</a></p> <p> </p> <p> </p> <p>Special thanks to the following podcasts,For inspiration and everything I learned by listening:</p> <p><a href="http://fragmentedpodcast.com/">Fragmented</a> ( Yes my title and podcast opening form is a nod to my favourite podcast )</p> <p><a href="http://androidbackstage.blogspot.ca/">Android Developers Backstage</a></p> <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">The Context</a></p> <p><a href="https://player.fm/series/neapolitan-1668190">Neapolitan</a></p> <p><a href="http://www.programmingthrowdown.com/">Programming Throwdown</a></p> <p> </p> <p>.</p>
+]]>
+</content:encoded>
+<enclosure url="http://segments.podbean.com/mf/feed/naukym/SegmentsEp1.mp3" length="63828553" type="audio/mpeg"/>
+<itunes:subtitle>
+In episode 1, I talk about the Android software keyboard and how to know when it has been shown. Show notes From my intro, Android projects I ...
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<br /> In episode 1, I talk about the Android software keyboard and how to know when it has been shown.<br /> Show notes<br /> From my intro, Android projects I have been involved in:<br /> <a href="https://www.chownow.com/">ChowNow</a> <br /> <a href="http://www.autotrader.ca/mobile/">autoTrader.c
+]]>
+<![CDATA[
+a</a><br /> <a href="https://www.mdcalc.com/">MDCalc</a><br />  <br /> Me:<br /> <a href="https://twitter.com/dave_a_thomas">https://twitter.com/dave_a_thomas</a><br /> Comments for show go here -&gt; <a href="https://github.com/davethomas11/segments">https://github.com/davethomas11/segments</a><br />  <br /> The great keyboard hack:<br /> <a href="https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device">https://stackoverflow.com/questions/4745988/how-do-i-detect-if-software-keyboard-is-visible-on-android-device</a><br /> Dianne Hackbornn quote from:<br /> <a href="https://groups.google.com/forum/#!topic/android-platform/FyjybyM0wGA">https://groups.google.com/forum/#!topic/android-platform/FyjybyM0wGA</a><br /> <a href="https://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android">https://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android</a><br /> Commonsware quote from:<br /> <a href="https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboard-shown-dismissed-for-an-edittext">https://stackoverflow.com/questions/7931833/getting-notified-when-virtual-keyboard-shown-dismissed-for-an-edittext</a><br />  <br />  <br /> Special thanks to the following podcasts,For inspiration and everything I learned by listening:<br /> <a href="http://fragmentedpodcast.com/">Fragmented</a> ( Yes my title and podcast opening form is a nod to my favourite podcast )<br /> <a href="http://androidbackstage.blogspot.ca/">Android Developers Backstage</a><br /> <a href="https://github.com/artem-zinnatullin/TheContext-Podcast">The Context</a><br /> <a href="https://player.fm/series/neapolitan-1668190">Neapolitan</a><br /> <a href="http://www.programmingthrowdown.com/">Programming Throwdown</a><br />  <br /> .<br />
+]]>
+</itunes:summary>
+<itunes:author>Dave Thomas</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>00:26:35</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
